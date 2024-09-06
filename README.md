@@ -4,4 +4,4 @@ GitFind é um projeto desenvolvido com React, JS, CSS, HTML e a API do GitHub pa
 
 ## Git Find
 
-<img src="./src/assets/screenshot.png" alt="print project" width="200" height="200">
+<img src="./src/assets/screenshot.png" alt="print project">
